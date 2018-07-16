@@ -28,8 +28,8 @@ INCH = 25.4;
 
 // stock size
 STOCK_THICKNESS = 0.75 * INCH;
-STOCK_WIDTH        = 3.5   * INCH;
-STOCK_LENGTH      = 24    * INCH;  // for asthetics; does not affect calculations
+STOCK_WIDTH     = 3.5  * INCH;
+STOCK_LENGTH    = 24   * INCH;  // for asthetics; does not affect calculations
 
 // how many dovetails
 DOVETAILS = 5;
